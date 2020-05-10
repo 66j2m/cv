@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+/* stret H1 */
+h1{
+    text-align: center;
+   
+    background-color: rgb(255, 205, 205);
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* End H1 */
+.inp-name{
+    width: 20px;
+    height: 20px;
+}
+ 
